@@ -1,0 +1,16 @@
+#about {
+    background-color: black;
+    color: white;
+    transition-duration: 2000ms;
+}
+
+#about:hover {
+    color: black;
+    background-color: white;
+    transition-duration: 2000ms;
+}
+
+#us {
+    height: 300px;
+    width: inherit;
+}

@@ -1,0 +1,16 @@
+#titlebar {
+    color: white;
+    background-color: black;
+    transition-duration: 2000ms;
+}
+
+#title {
+    font-weight: bolder;
+    font-size: 150px;
+}
+
+#titlebar:hover {
+    color: black;
+    background-color: white;
+    transition-duration: 2000ms;
+}
