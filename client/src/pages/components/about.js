@@ -1,7 +1,7 @@
 import React from "react";
 
 import "../../assets/styles/about.css";
-import photo from "../../assets/images/photo0019.JPG"
+// import photo from "../../assets/images/photo0019.JPG"
 
 function About() {
     return (
@@ -11,7 +11,7 @@ function About() {
             </div>
             <div className="row">
                 <div className="col-sm-4">
-                    <img id="us" src={photo} alt="pic of Austen and Andrea" />
+                    <img id="us" src="..."alt="pic of Austen and Andrea" />
                 </div>
                 <div className="col-sm-8">
                     <p id="aboutcontent">
