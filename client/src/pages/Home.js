@@ -11,8 +11,11 @@ function Home() {
         <div id="home">
             <Title />
             <NavBar />
+            <br />
             <div className="container">
                 <About />
+                <br />
+                
             </div>
         </div>
     );

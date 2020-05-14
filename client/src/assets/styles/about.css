@@ -2,6 +2,8 @@
     background-color: black;
     color: white;
     transition-duration: 2000ms;
+    padding: 10px;
+    border-radius: 10px;
 }
 
 #about:hover {
@@ -13,4 +15,12 @@
 #us {
     height: 300px;
     width: inherit;
+}
+
+#abouttitle {
+    font-family: "Raleway";
+}
+
+#aboutcontent {
+    font-family: "Montserrat";
 }

@@ -4,9 +4,12 @@ import "../../assets/styles/title.css"
 
 function Title() {
     return (
-        <div>
-            <nav id="titlebar" className="navbar justify-content-center">
+        <div id="titlebar">
+            <nav className="navbar justify-content-center">
                 <h1 id="title">NXT LVL</h1>
+            </nav>
+            <nav className="navbar justify-content-center">
+                <h5 id="tagline">take your business to the next level</h5>
             </nav>
         </div>
     );

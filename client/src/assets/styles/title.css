@@ -7,10 +7,18 @@
 #title {
     font-weight: bolder;
     font-size: 150px;
+    font-family: "Raleway";
 }
 
 #titlebar:hover {
     color: black;
     background-color: white;
     transition-duration: 2000ms;
+}
+
+#tagline {
+    font-family: "Montserrat";
+    position: relative;
+    top: -30px;
+    margin-bottom: -10px;
 }
