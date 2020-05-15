@@ -10,9 +10,9 @@ function NavBar() {
             </button>
             <div className="collapse navbar-collapse justify-content-center" id="navbarNavAltMarkup">
             <div className="navbar-nav justify-content-center">
-                <a id="navitem" className="nav-item nav-link js-scroll-trigger" href="#">ABOUT US</a>
-                <a id="navitem" className="nav-item nav-link js-scroll-trigger" href="#">OUR WORK</a>
-                <a id="navitem" className="nav-item nav-link js-scroll-trigger" href="#">CONTACT US</a>
+                <a id="navitem" className="nav-item nav-link js-scroll-trigger" href="#about">ABOUT US</a>
+                <a id="navitem" className="nav-item nav-link js-scroll-trigger" href="#projects">OUR WORK</a>
+                <a id="navitem" className="nav-item nav-link js-scroll-trigger" href="#contact">CONTACT US</a>
             </div>
             </div>
         </nav>

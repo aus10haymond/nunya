@@ -1,0 +1,22 @@
+#projectcard {
+    background-color: black;
+    color: white;
+    transition-duration: 2000ms;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#projectcard:hover {
+    color: black;
+    background-color: white;
+    transition-duration: 2000ms;
+}
+
+#cardtitle {
+    font-family: "Raleway";
+}
+
+#cardbody {
+    font-family: "Montserrat";
+    padding: 20px;
+}
