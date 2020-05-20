@@ -5,6 +5,7 @@ import Title from "./components/title";
 import NavBar from "./components/navBar";
 import About from "./components/about";
 import Projects from "./components/projects";
+import Carousel from "./components/carousel";
 
 import "../assets/styles/home.css"
 
@@ -20,6 +21,7 @@ function Home() {
                     <Route exact path="/about" component={About} />
                     <Route exact path="/projects" component={Projects} />
                 </Switch>
+                <Carousel />
             </div>
         </div>
         </BrowserRouter>
