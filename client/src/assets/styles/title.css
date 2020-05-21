@@ -22,3 +22,12 @@
     top: -30px;
     margin-bottom: -10px;
 }
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
