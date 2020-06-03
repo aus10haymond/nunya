@@ -10,9 +10,9 @@ function Projects() {
             <div className="justify-content-center row">
                 <h2 id="projectstitle">OUR WORK</h2>
                 <div className="row text-center">
-                    <p id="projectscontent">
+                    <div id="projectscontent">
                         Veniam occaecat do ex elit commodo dolor adipisicing consequat nulla. Sunt do excepteur proident elit cupidatat aliquip. Deserunt sint amet officia ea. Exercitation occaecat tempor fugiat consequat aliquip est ut cupidatat. Magna non commodo et eu proident nulla non.
-                    </p>
+                    </div>
                 </div>
                 
                 <div className="row">

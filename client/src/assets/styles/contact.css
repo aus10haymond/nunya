@@ -1,0 +1,30 @@
+#contact {
+    background-color: black;
+    color: white;
+    transition-duration: 2000ms;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#contact:hover {
+    color: black;
+    background-color: white;
+    transition-duration: 2000ms;
+}
+
+#contacttitle {
+    font-family: "Raleway";
+}
+
+#contactcontent {
+    font-family: "Montserrat";
+}
+
+#contactlink {
+    color: white;
+}
+
+#contactlink:hover {
+    color: black;
+    text-decoration: none;
+}

@@ -6,6 +6,7 @@ import NavBar from "./components/navBar";
 import About from "./about";
 import Projects from "./projects";
 import Start from "./start";
+import Contact from "./contact";
 
 import "../assets/styles/home.css"
 
@@ -21,6 +22,7 @@ function Home() {
                     <Route exact path="/" component={Start} />
                     <Route exact path="/about" component={About} />
                     <Route exact path="/projects" component={Projects} />
+                    <Route exact path="/contact" component={Contact} />
                 </Switch>
             </div>
         </div>

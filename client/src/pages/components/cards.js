@@ -13,10 +13,10 @@ function Cards() {
             <div className="col-sm-4">
                 <div className="card" id="projectcard">
                     <br />
-                    <h5 className="card-title" id="cardtitle">TACO'S LANDSCAPING</h5>
+                    <h5 className="card-title" id="cardtitle">WEBSITES</h5>
                     <div className="card-body" id="cardbody">
                         <img src="" alt="" />
-                        <a href="http://tacolandscaping.herokuapp.com" target="_blank" rel="noopener noreferrer" className="btn btn-dark">CHECK IT OUT</a>
+                        <a href="/projects/websites" rel="noopener noreferrer" className="btn btn-dark">CHECK IT OUT</a>
                     </div>
                 </div>
                 <br />
@@ -24,10 +24,10 @@ function Cards() {
             <div className="col-sm-4">
                 <div className="card" id="projectcard">
                     <br />
-                    <h4 className="card-title" id="cardtitle"> </h4>
+                    <h5 className="card-title" id="cardtitle">LOGOS</h5>
                     <div className="card-body" id="cardbody">
                         <img src="" alt="" />
-                        <a href="" target="_blank" rel="noopener noreferrer" className="btn btn-dark">CHECK IT OUT</a>
+                        <a href="/projects/logos" rel="noopener noreferrer" className="btn btn-dark">CHECK IT OUT</a>
                     </div>
                 </div>
                 <br />
@@ -35,10 +35,10 @@ function Cards() {
             <div className="col-sm-4">
                 <div className="card" id="projectcard">
                     <br />
-                    <h4 className="card-title" id="cardtitle"> </h4>
+                    <h5 className="card-title" id="cardtitle">GRAPHIC DESIGN</h5>
                     <div className="card-body" id="cardbody">
                         <img src="" alt="" />
-                        <a href="" target="_blank" rel="noopener noreferrer" className="btn btn-dark">CHECK IT OUT</a>
+                        <a href="/projects/graphics" rel="noopener noreferrer" className="btn btn-dark">CHECK IT OUT</a>
                     </div>
                 </div>
                 <br />
