@@ -7,6 +7,7 @@ import About from "./about";
 import Projects from "./projects";
 import Start from "./start";
 import Contact from "./contact";
+import Footer from "./components/footer";
 
 import "../assets/styles/home.css"
 
@@ -25,6 +26,8 @@ function Home() {
                     <Route exact path="/contact" component={Contact} />
                 </Switch>
             </div>
+            <br />
+            <Footer />
         </div>
         </BrowserRouter>
     );

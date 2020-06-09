@@ -19,7 +19,7 @@
 #tagline {
     font-family: "Montserrat";
     position: relative;
-    top: -30px;
+    top: -70px;
     margin-bottom: -10px;
 }
 
@@ -30,4 +30,10 @@ a {
 a:hover {
     color: black;
     text-decoration: none;
+}
+
+#logo {
+    height: 500px;
+    width: 500px;
+    border-radius: 50px;
 }

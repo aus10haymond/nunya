@@ -1,25 +1,25 @@
 #nav {
     background-color: black;
     transition-duration: 2000ms;
+    color: white;
 }
 
 #nav:hover {
     background-color: white;
     transition-duration: 2000ms;
+    color: black;
 }
 
 #navitem {
-    color: white;
-    background-color: black;
+    color: inherit;
+    background-color: inherit;
     font-weight: bold;
-    transition-duration: 2000ms;
-    border-radius: 10px;
     font-family: "Raleway";
 }
 
-#navitem:hover  {
+/* #navitem:hover  {
     color: black;
     background-color: white;
     transition-duration: 2000ms;
-}
+} */
 
