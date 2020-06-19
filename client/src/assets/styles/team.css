@@ -1,0 +1,48 @@
+#team {
+    background-color: black;
+    color: white;
+    transition-duration: 2000ms;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#team:hover {
+    color: black;
+    background-color: white;
+    transition-duration: 2000ms;
+}
+
+#teamtitle {
+    font-family: "Raleway";
+}
+
+#teamcontent {
+    font-family: "Montserrat";
+}
+
+#teamcard {
+    background-color: black;
+    color: white;
+    transition-duration: 2000ms;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#teamcard:hover {
+    color: black;
+    background-color: white;
+    transition-duration: 2000ms;
+}
+
+#cardtitle {
+    font-family: "Raleway";
+}
+
+#cardbody {
+    font-family: "Montserrat";
+    padding: 20px;
+}
+
+#teamimg {
+    border-radius: 50px;
+}
