@@ -11,7 +11,7 @@ function Contact() {
             <div className="row justify-content-center">
                 <div>
                     <div id="contactcontent" className="col-sm-12">
-                        <a id="contactlink" href="mailto:ahaymon17@gmail.com?Subject=NXT LVL" target="_top">
+                        <a id="contactlink" href="mailto:nxtlvldgtl@gmail.com?Subject=NXT LVL" target="_top">
                             <h4>EMAIL</h4>
                         </a>
                     </div>
