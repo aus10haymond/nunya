@@ -1,6 +1,6 @@
 import React from "react";
 
-import "../../assets/styles/cards.css"
+// import "../../assets/styles/cards.css"
 
 function Cards() {
     return (

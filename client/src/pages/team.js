@@ -1,6 +1,6 @@
 import React from "react";
 
-import "../assets/styles/team.css"
+// import "../assets/styles/team.css"
 
 function Team() {
     return (

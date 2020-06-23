@@ -12,8 +12,8 @@ import logo7 from "../../assets/images/logos/hilighter.png";
 import logo8 from "../../assets/images/logos/peachstripe.png";
 import logo9 from "../../assets/images/logos/purpleyellow.png";
 
-import "../../assets/styles/image-gallery.css";
-import "../../assets/styles/carousel.css";
+// import "../../assets/styles/image-gallery.css";
+// import "../../assets/styles/carousel.css";
 
 class Carousel extends React.Component {
 

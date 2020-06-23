@@ -18,7 +18,7 @@ function Home() {
             <NavBar />
             <br />
             <div className="container">
-                < Start />
+                <Start />
                 <br />
                 <About />
                 <br />

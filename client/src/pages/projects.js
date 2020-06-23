@@ -2,7 +2,7 @@ import React from "react";
 
 import Cards from "./components/cards";
 
-import "../assets/styles/projects.css";
+// import "../assets/styles/projects.css";
 
 function Projects() {
     return (

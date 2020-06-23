@@ -1,7 +1,7 @@
 import React from "react";
 
 import logo from "../../assets/images/logos/nxt_lvl_logo.png";
-import "../../assets/styles/title.css"
+// import "../../assets/styles/title.css"
 
 function Title() {
     return (

@@ -1,6 +1,6 @@
 import React from "react";
 
-import "../assets/styles/about.css";
+// import "../assets/styles/about.css";
 import photo from "../assets/images/IMG_0936.JPG"
 
 function About() {
@@ -15,13 +15,10 @@ function About() {
                 </div>
                 <div className="col-sm-8">
                     <p id="aboutcontent">
-                        Ad aliqua aliqua sit id aliquip ad aliqua. Quis eu nisi Lorem ea eiusmod non ex ea deserunt duis. Ut fugiat laborum ullamco et non ad officia sit minim ipsum cillum occaecat laboris. Magna in in proident velit Lorem esse enim veniam. Cillum enim adipisicing labore quis. Occaecat minim ullamco non consequat velit cillum laboris consectetur anim Lorem.
+                        We work with a variety of local small businesses to take them to the next level. Our purpose is to develop collaborative projects, combining creativity with technology in order to bring your goals and dreams to life. 
                     </p>
                     <p id="aboutcontent">
-                        Ad aliqua aliqua sit id aliquip ad aliqua. Quis eu nisi Lorem ea eiusmod non ex ea deserunt duis. Ut fugiat laborum ullamco et non ad officia sit minim ipsum cillum occaecat laboris. Magna in in proident velit Lorem esse enim veniam. Cillum enim adipisicing labore quis. Occaecat minim ullamco non consequat velit cillum laboris consectetur anim Lorem.
-                    </p>
-                    <p id="aboutcontent">
-                        Ad aliqua aliqua sit id aliquip ad aliqua. Quis eu nisi Lorem ea eiusmod non ex ea deserunt duis. Ut fugiat laborum ullamco et non ad officia sit minim ipsum cillum occaecat laboris. Magna in in proident velit Lorem esse enim veniam. Cillum enim adipisicing labore quis. Occaecat minim ullamco non consequat velit cillum laboris consectetur anim Lorem.
+                        NXT LVL DGTL was founded in 2020 by Austen and Andrea Haymond. Combining Andrea's background in business and passion for design with Austen's technical know-how and experience with web development, NXT LVL DGTL was born, with the goal of assisting small businesses in expanding their online presence.
                     </p>
                 </div>
             </div>
