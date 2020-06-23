@@ -1,5 +1,8 @@
 import React from "react";
 
+import austen from "../assets/images/austen.png"
+import andrea from "../assets/images/andrea.png"
+
 // import "../assets/styles/team.css"
 
 function Team() {
@@ -12,9 +15,9 @@ function Team() {
                 <div className="col-sm-6">
                     <div className="card" id="teamcard">
                         <br />
-                        <div className="card-body" id="cardbody">
-                            <img id="teamimg" src="" alt="" />
-                            <h5 className="card-title text-center" id="cardtitle">ANDREA</h5>
+                        <h4 className="card-title text-center" id="cardtitle">ANDREA</h4>
+                        <div className="card-body text-center" id="cardbody">
+                            <img id="teamimg" src={andrea} alt="Andrea" />
                             <p id="teamcontent">
 
                             </p>
@@ -25,9 +28,9 @@ function Team() {
                 <div className="col-sm-6">
                 <div className="card" id="teamcard">
                         <br />
-                        <div className="card-body" id="cardbody">
-                            <img id="teamimg" src="" alt="" />
-                            <h5 className="card-title text-center" id="cardtitle">AUSTEN</h5>
+                        <h4 className="card-title text-center" id="cardtitle">AUSTEN</h4>
+                        <div className="card-body text-center" id="cardbody">
+                            <img id="teamimg" src={austen} alt="Austen" />
                             <p id="teamcontent">
 
                             </p>

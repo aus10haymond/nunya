@@ -379,7 +379,7 @@
         background-color: black;
         color: white;
         transition-duration: 2000ms;
-        padding: 10px;
+        padding: 50px;
         border-radius: 10px;
     }
     
@@ -444,7 +444,8 @@
     }
     
     #teamimg {
-        border-radius: 50px;
+        border-radius: 100px;
+        height: 250px;
     }
 
     #titlebar {

@@ -11,7 +11,7 @@ function Projects() {
                 <h2 id="projectstitle">OUR WORK</h2>
                 <div className="row text-center">
                     <div id="projectscontent">
-                        Veniam occaecat do ex elit commodo dolor adipisicing consequat nulla. Sunt do excepteur proident elit cupidatat aliquip. Deserunt sint amet officia ea. Exercitation occaecat tempor fugiat consequat aliquip est ut cupidatat. Magna non commodo et eu proident nulla non.
+                        We help our clients take the first steps in their entrepreneurial journey through design and analysis, project management, and custom development.
                     </div>
                 </div>
                 
