@@ -30,14 +30,15 @@
     font-family: "Montserrat";
 }
 
-#contactlink {
-    color: white;
+/* #contactlink {
+    color:inherit;
+    background-color: inherit;
 }
 
 #contactlink:hover {
-    color: black;
+    color: inherit;
     text-decoration: none;
-}
+} */
 
 #footer {
     color: white;
@@ -511,6 +512,7 @@
     
     #aboutcontent {
         font-family: "Montserrat";
+        font-size: 150%;
     }
 
     #projectcard {

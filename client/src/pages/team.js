@@ -18,8 +18,10 @@ function Team() {
                         <h4 className="card-title text-center" id="cardtitle">ANDREA</h4>
                         <div className="card-body text-center" id="cardbody">
                             <img id="teamimg" src={andrea} alt="Andrea" />
+                            <br />
+                            <br />
                             <p id="teamcontent">
-
+                                CREATIVE DIRECTOR
                             </p>
                         </div>
                     </div>
@@ -31,8 +33,10 @@ function Team() {
                         <h4 className="card-title text-center" id="cardtitle">AUSTEN</h4>
                         <div className="card-body text-center" id="cardbody">
                             <img id="teamimg" src={austen} alt="Austen" />
+                            <br />
+                            <br />
                             <p id="teamcontent">
-
+                                WEB DEVELOPER
                             </p>
                         </div>
                     </div>

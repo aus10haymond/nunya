@@ -12,7 +12,6 @@ function Cards() {
                     <br />
                     <h4 className="card-title" id="cardtitle">DESIGN & ANALYSIS</h4>
                     <div className="card-body" id="cardbody">
-                        <img src="" alt="" />
                         <p>We work with your subject matter experts to gather and discuss requirements. We will help define project objectives, business rules, and deployment timelines.</p>
                         <br />
                         {/* <a href="/projects/logos" rel="noopener noreferrer" className="btn btn-dark">LOGOS</a> */}
@@ -25,7 +24,6 @@ function Cards() {
                     <br />
                     <h4 className="card-title" id="cardtitle">PROJECT MANAGEMENT</h4>
                     <div className="card-body" id="cardbody">
-                        <img src="" alt="" />
                         <p>We help maintain an appropriate project plan that meets all your critical milestones. We ensure that business logic and software architecture remain in line.</p>
                         <br />
                         {/* <a href="/projects/graphics" rel="noopener noreferrer" className="btn btn-dark">GRAPHIC DESIGN</a> */}
@@ -38,8 +36,7 @@ function Cards() {
                     <br />
                     <h4 className="card-title" id="cardtitle">CUSTOM DEVELOPMENT</h4>
                     <div className="card-body" id="cardbody">
-                        <img src="" alt="" />
-                        <p>We build custom applications specifically designed for the unique demands of your business. Our applications can be scaled with ease as your organization changes and grows.</p>
+                        <p>We build custom web applications specifically catered to the needs of your business. From a gallery showcasing your work, to a convenient way for clients to reach you, to storing product data, NXT LVL DGTL will be by your side to help you establish a meaningful web presence.</p>
                         {/* <a href="/projects/websites" rel="noopener noreferrer" className="btn btn-dark">WEBSITES</a> */}
                     </div>
                 </div>
