@@ -15,10 +15,13 @@ function About() {
                 </div>
                 <div className="col-sm-8">
                     <p id="aboutcontent">
-                        We work with a variety of local small businesses to take them to the next level. Our purpose is to develop collaborative projects, combining creativity with technology in order to bring your goals and dreams to life. 
+                        We work with a variety of local small businesses to take them to the next level. Our purpose is to develop collaborative projects, combining creativity with technology in order to bring your goals and dreams to life. Our "husband and wife" team of Austen and Andrea Haymond will be by your side helping you to put your business on the digital map. 
                     </p>
                     <p id="aboutcontent">
-                        NXT LVL DGTL was founded in 2020 by Austen and Andrea Haymond. Combining Andrea's background in business and passion for design with Austen's technical know-how and experience with web development, NXT LVL DGTL was born, with the goal of assisting small businesses in expanding their online presence.
+                        Andrea graduated with a Bachelor's in Business from Arizona State University in May 2020. Austen completed a Web Development coding boot camp through the University of Arizona and is working towards Bachelor's and then Master's degrees in Computer Science at Arizona State.
+                    </p>
+                    <p id="aboutcontent">
+                        Combining Andrea's background in business and passion for design with Austen's technical know-how and experience with web development, NXT LVL DGTL was born, with the goal of assisting small businesses in expanding their online presence.
                     </p>
                 </div>
             </div>

@@ -14,11 +14,11 @@ import "../assets/styles/home.css"
 function Home() {
     return (
         <div id="home">
-            <Title />
             <NavBar />
+            <Title />
             <br />
             <div className="container">
-                <Start />
+                {/* <Start /> */}
                 <br />
                 <About />
                 <br />
