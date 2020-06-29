@@ -4,7 +4,7 @@ import Title from "./components/title";
 import NavBar from "./components/navBar";
 import About from "./about";
 import Projects from "./projects";
-import Start from "./start";
+// import Start from "./start";
 import Contact from "./contact";
 import Footer from "./components/footer";
 import Team from "./team";
