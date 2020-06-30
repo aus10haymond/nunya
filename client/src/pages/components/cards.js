@@ -10,7 +10,7 @@ function Cards() {
             <div className="col-sm-4">
                 <div className="card" id="projectcard">
                     <br />
-                    <h4 className="card-title" id="cardtitle">BRAND DESIGN</h4>
+                    <h4 className="card-title text-center" id="cardtitle">BRAND DESIGN</h4>
                     <div className="card-body" id="cardbody">
                         <p>We use our expertise to work with your business in order to create the perfect aesthetics in all aspects of your brand.</p>
                         <br />
@@ -22,7 +22,7 @@ function Cards() {
             <div className="col-sm-4">
                 <div className="card" id="projectcard">
                     <br />
-                    <h4 className="card-title" id="cardtitle">PROJECT MANAGEMENT</h4>
+                    <h4 className="card-title text-center" id="cardtitle">PROJECT MANAGEMENT</h4>
                     <div className="card-body" id="cardbody">
                         <p>We help you to manage your brand and set up your business, helping you to efficiently connect with your customers.</p>
                         <br />
@@ -34,7 +34,7 @@ function Cards() {
             <div className="col-sm-4">
                 <div className="card" id="projectcard">
                     <br />
-                    <h4 className="card-title" id="cardtitle">CUSTOM DEVELOPMENT</h4>
+                    <h4 className="card-title text-center" id="cardtitle">CUSTOM DEVELOPMENT</h4>
                     <div className="card-body" id="cardbody">
                         <p>We build custom web applications specifically catered to the needs of your business to help you establish a meaningful web presence.</p>
                         {/* <a href="/projects/websites" rel="noopener noreferrer" className="btn btn-dark">WEBSITES</a> */}
