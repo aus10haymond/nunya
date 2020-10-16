@@ -10,7 +10,7 @@ function Printables() {
             <div className="col-sm-4">
                 <div className="card" id="projectcard">
                     <br />
-                    <h4 className="card-title text-center" id="cardtitle">THINGS</h4>
+                    <h4 className="card-title text-center" id="cardtitle">COMING SOON</h4>
                     <div className="card-body" id="cardbody">
                         
                     </div>
@@ -20,7 +20,7 @@ function Printables() {
             <div className="col-sm-4">
                 <div className="card" id="projectcard">
                     <br />
-                    <h4 className="card-title text-center" id="cardtitle">STUFF</h4>
+                    <h4 className="card-title text-center" id="cardtitle">COMING SOON</h4>
                     <div className="card-body" id="cardbody">
                         
                     </div>
@@ -30,7 +30,7 @@ function Printables() {
             <div className="col-sm-4">
                 <div className="card" id="projectcard">
                     <br />
-                    <h4 className="card-title text-center" id="cardtitle">ITEMS</h4>
+                    <h4 className="card-title text-center" id="cardtitle">COMING SOON</h4>
                     <div className="card-body" id="cardbody">
                         
                     </div>
