@@ -8,6 +8,7 @@ import Projects from "./projects";
 import Contact from "./contact";
 import Footer from "./components/footer";
 import Team from "./team";
+import Print from "./print";
 
 import "../assets/styles/home.css"
 
@@ -25,6 +26,8 @@ function Home() {
                 <Team />
                 <br />
                 <Projects />
+                <br />
+                <Print />
                 <br />
                 <Contact />
             </div>
