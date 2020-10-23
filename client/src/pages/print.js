@@ -11,7 +11,7 @@ function Print() {
                 <h2 id="projectstitle">PRINTABLES</h2>
                 <div className="row text-center">
                     <div id="projectscontent">
-                        Below we have included some downloadable designs. These can be used for stories on social media, phone backgrounds, and diplay in other mediums whether digital or in print. Feel free to download any you like!
+                        Below we have included some downloadable designs. These can be used for stories on social media, phone backgrounds, and display in other mediums whether digital or in print. These designs will only be available for a limited time, so download them while they are here and check back next month for more free designs!
                     </div>
                 </div>
                 
