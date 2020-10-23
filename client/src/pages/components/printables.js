@@ -14,7 +14,7 @@ function Printables() {
                     <br />
                     <h4 className="card-title text-center" id="cardtitle">COMING SOON</h4>
                     <div className="card-body" id="cardbody">
-                        <a className="contact contactcontent" href={download1} target="blank">DOWNLOAD</a>
+                        <button className="contact contactcontent" href={download1} target="blank">DOWNLOAD</button>
                     </div>
                 </div>
                 <br />
@@ -24,7 +24,7 @@ function Printables() {
                     <br />
                     <h4 className="card-title text-center" id="cardtitle">COMING SOON</h4>
                     <div className="card-body" id="cardbody">
-                        <a className="contact contactcontent" href={download2} target="blank">DOWNLOAD</a>
+                        <button className="contact contactcontent" href={download2} target="blank">DOWNLOAD</button>
                     </div>
                 </div>
                 <br />
@@ -34,7 +34,7 @@ function Printables() {
                     <br />
                     <h4 className="card-title text-center" id="cardtitle">COMING SOON</h4>
                     <div className="card-body" id="cardbody">
-                        <a className="contact contactcontent" href={download3} target="blank">DOWNLOAD</a>
+                        <button className="contact contactcontent" href={download3} target="blank">DOWNLOAD</button>
                     </div>
                 </div>
                 <br />

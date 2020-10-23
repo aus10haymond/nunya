@@ -22,6 +22,25 @@
     transition-duration: 2000ms;
 }
 
+button {
+  background-color: black;
+  color: white;
+  transition-duration: 2000ms;
+  margin: auto;
+  border-radius: 10px;
+  border-width: 0px;
+}
+
+button:hover {
+  color: black;
+  background-color: white;
+  transition-duration: 2000ms;
+}
+
+i {
+  margin: auto;
+}
+
 #contacttitle {
     font-family: "Raleway";
 }
@@ -474,14 +493,14 @@
         margin-bottom: -10px;
     }
     
-    a {
+    /* a {
         color: white;
     }
     
     a:hover {
         color: black;
         text-decoration: none;
-    }
+    } */
     
     #logo {
         border-radius: 50px;
@@ -536,4 +555,11 @@
     #cardbody {
         font-family: "Montserrat";
         padding: 20px;
+        color: white;
+        transition-duration: 2000ms;
+    }
+
+    #cardbody:hover {
+      color: black;
+      transition-duration: 2000ms;
     }
