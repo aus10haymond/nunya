@@ -557,9 +557,34 @@ i {
         padding: 20px;
         color: white;
         transition-duration: 2000ms;
+        margin: auto;
     }
 
     #cardbody:hover {
       color: black;
       transition-duration: 2000ms;
     }
+
+    #printables {
+      background-color: black;
+      color: white;
+      transition-duration: 2000ms;
+      padding: 50px;
+      border-radius: 10px;
+  }
+  
+  #printables:hover {
+      color: black;
+      background-color: white;
+      transition-duration: 2000ms;
+  }
+  
+  #printablestitle {
+      font-family: "Raleway";
+  }
+  
+  #printablescontent {
+      font-family: "Montserrat";
+      padding: 20px;
+      margin: auto;
+  }

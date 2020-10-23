@@ -12,6 +12,7 @@ function NavBar() {
             <div className="navbar-nav justify-content-center">
                 <a id="navitem" className="nav-item nav-link js-scroll-trigger" href="#about">ABOUT US</a>
                 <a id="navitem" className="nav-item nav-link js-scroll-trigger" href="#projects">OUR WORK</a>
+                <a id="navitem" className="nav-item nav-link js-scroll-trigger" href="#printables">PRINTABLES</a>
                 <a id="navitem" className="nav-item nav-link js-scroll-trigger" href="#contact">CONTACT US</a>
             </div>
             </div>
