@@ -588,3 +588,14 @@ i {
       padding: 20px;
       margin: auto;
   }
+
+  a {
+    color: inherit;
+    background-color: inherit;
+    font-family: "Raleway";
+    }
+
+  a:hover {
+    color: inherit;
+    background-color: inherit;
+  }

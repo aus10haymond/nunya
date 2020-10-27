@@ -14,36 +14,36 @@ function Contact() {
                     <div id="contactcontent" className="col-sm-12">
                         <nav id="contact" className="navbar justify-content-center">
                             <i id="contactlink" class="fas fa-envelope-open-text"></i>
-                            <button id="contactlink" className="nav-item nav-link active" href="mailto:nxtlvldgtl@gmail.com?Subject=NXT LVL" target="_top">
+                            <a id="contactlink" className="nav-item nav-link active" href="mailto:nxtlvldgtl@gmail.com?Subject=NXT LVL" target="_top">
                                 <h4>EMAIL</h4>
-                            </button>
+                            </a>
                         </nav>
                     </div>
                     <br />
                     <div id="contactcontent" className="col-sm-12">
                         <nav id="contact" className="navbar justify-content-center">
                             <i id="contactlink" class="fas fa-phone"></i>
-                            <button id="contactlink" className="nav-item nav-link active" href="tel:602-301-2522">
+                            <a id="contactlink" className="nav-item nav-link active" href="tel:602-301-2522">
                                 <h4>PHONE</h4>
-                            </button>
+                            </a>
                         </nav>
                     </div>
                     <br />
                     <div id="contactcontent" className="col-sm-12">
                         <nav id="contact" className="navbar justify-content-center">
                             <i id="contactlink" class="fab fa-instagram"></i>
-                            <button id="contactlink" className="nav-item nav-link active" href="http://instagram.com/_u/nxtlvldgtl/" target="_blank" rel="noopener noreferrer">
+                            <a id="contactlink" className="nav-item nav-link active" href="http://instagram.com/_u/nxtlvldgtl/" target="_blank" rel="noopener noreferrer">
                                 <h4>INSTAGRAM</h4>
-                            </button>
+                            </a>
                         </nav>
                     </div>
                     <br />
                     <div id="contactcontent" className="col-sm-12">
                         <nav id="contact" className="navbar justify-content-center">
                             <i id="contactlink" class="fab fa-facebook-square"></i>
-                            <button id="contactlink" className="nav-item nav-link active" href="https://www.facebook.com/nxtlvldgtl/" target="_blank" rel="noopener noreferrer">
+                            <a id="contactlink" className="nav-item nav-link active" href="https://www.facebook.com/nxtlvldgtl/" target="_blank" rel="noopener noreferrer">
                                 <h4>FACEBOOK</h4>
-                            </button>
+                            </a>
                         </nav>
                     </div>
                     <br />
