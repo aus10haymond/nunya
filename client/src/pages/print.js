@@ -1,6 +1,7 @@
 import React from "react";
 
-import Printables from "./components/printables";
+// import Printables from "./components/printables";
+import Carousel from "./components/carousel";
 
 // import "../assets/styles/projects.css";
 
@@ -16,7 +17,7 @@ function Print() {
                 </div>
                 
                 <div className="row">
-                    <Printables />
+                    <Carousel />
                 </div>
             </div>
         </div>
