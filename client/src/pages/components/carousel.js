@@ -11,6 +11,12 @@ import hocusPocusDownload from "../../assets/downloads/hocusPocusDownload.pdf";
 // import "../../assets/styles/image-gallery.css";
 // import "../../assets/styles/carousel.css";
 
+// let downloads = 0;
+
+// function clicks() {
+//     downloads += 1;
+//     console.log(downloads);
+// }
 class Carousel extends React.Component {
 
     render() {
@@ -18,12 +24,12 @@ class Carousel extends React.Component {
         const images = [
             {
                 original: booImage,
-                description: <a href={booDownload} target="_blank">DOWNLOAD</a>,
+                description: <a href={booDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
                 originalAlt: 'Boo!'
             },
             {
                 original: hocusPocusImage,
-                description: <a href={hocusPocusDownload} target="_blank">DOWNLOAD</a>,
+                description: <a href={hocusPocusDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
                 originalAlt: 'Hocus Pocus!'
             }
         ]
