@@ -2,11 +2,12 @@ import React from "react";
 
 import ImageGallery from "react-image-gallery";
 
-import booImage from "../../assets/downloads/booImage.png";
-import hocusPocusImage from "../../assets/downloads/hocusPocusImage.png";
-import booDownload from "../../assets/downloads/booDownload.pdf";
-import hocusPocusDownload from "../../assets/downloads/hocusPocusDownload.pdf";
+// import booImage from "../../assets/downloads/booImage.png";
+// import hocusPocusImage from "../../assets/downloads/hocusPocusImage.png";
+// import booDownload from "../../assets/downloads/booDownload.pdf";
+// import hocusPocusDownload from "../../assets/downloads/hocusPocusDownload.pdf";
 
+import comingSoon from "../../assets/downloads/comingSoon.png";
 
 // import "../../assets/styles/image-gallery.css";
 // import "../../assets/styles/carousel.css";
@@ -22,15 +23,20 @@ class Carousel extends React.Component {
     render() {
 
         const images = [
+            // {
+            //     original: booImage,
+            //     description: <a href={booDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
+            //     originalAlt: 'Boo!'
+            // },
+            // {
+            //     original: hocusPocusImage,
+            //     description: <a href={hocusPocusDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
+            //     originalAlt: 'Hocus Pocus!'
+            // }
             {
-                original: booImage,
-                description: <a href={booDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
-                originalAlt: 'Boo!'
-            },
-            {
-                original: hocusPocusImage,
-                description: <a href={hocusPocusDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
-                originalAlt: 'Hocus Pocus!'
+                original: comingSoon,
+                description: 'Coming Soon!',
+                originalAlt: 'Coming Soon!'
             }
         ]
 
