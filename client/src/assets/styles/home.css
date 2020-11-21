@@ -59,7 +59,12 @@ i {
     text-decoration: none;
 } */
 
+#logoSmall {
+  height: 150px;
+}
+
 #footer {
+  height: 10%;
     color: white;
     background-color: black;
     transition-duration: 2000ms;
@@ -78,7 +83,231 @@ i {
     border-radius: 10px;
 }
 
-.image-gallery-icon {
+#nav {
+    background-color: black;
+    transition-duration: 2000ms;
+    color: white;
+    }
+        
+#nav:hover {
+    background-color: white;
+    transition-duration: 2000ms;
+    color: black;
+    }
+        
+#navitem {
+    color: inherit;
+    background-color: inherit;
+    font-weight: bold;
+    font-family: "Raleway";
+    }
+
+    #projects {
+        background-color: black;
+        color: white;
+        transition-duration: 2000ms;
+        padding: 50px;
+        border-radius: 10px;
+    }
+    
+    #projects:hover {
+        color: black;
+        background-color: white;
+        transition-duration: 2000ms;
+    }
+    
+    #projectstitle {
+        font-family: "Raleway";
+    }
+    
+    #projectscontent {
+        font-family: "Montserrat";
+        padding: 20px;
+    }
+
+    #team {
+        background-color: black;
+        color: white;
+        transition-duration: 2000ms;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    
+    #team:hover {
+        color: black;
+        background-color: white;
+        transition-duration: 2000ms;
+    }
+    
+    #teamtitle {
+        font-family: "Raleway";
+    }
+    
+    #teamcontent {
+        font-family: "Montserrat";
+    }
+    
+    #teamcard {
+        background-color: black;
+        color: white;
+        transition-duration: 2000ms;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    
+    #teamcard:hover {
+        color: black;
+        background-color: white;
+        transition-duration: 2000ms;
+    }
+    
+    #cardtitle {
+        font-family: "Raleway";
+    }
+    
+    #cardbody {
+        font-family: "Montserrat";
+        padding: 20px;
+    }
+    
+    #teamimg {
+        border-radius: 100px;
+        height: 250px;
+    }
+
+    #titlebar {
+        color: white;
+        background-color: black;
+        transition-duration: 2000ms;
+    }
+    
+    #title {
+        font-weight: bolder;
+        font-size: 150px;
+        font-family: "Raleway";
+    }
+    
+    #titlebar:hover {
+        color: black;
+        background-color: white;
+        transition-duration: 2000ms;
+    }
+    
+    #tagline {
+        font-family: "Montserrat";
+        position: relative;
+        top: -70px;
+        margin-bottom: -10px;
+    }
+    
+    /* a {
+        color: white;
+    }
+    
+    a:hover {
+        color: black;
+        text-decoration: none;
+    } */
+    
+    #logo {
+        border-radius: 50px;
+    }
+
+    #about {
+        background-color: black;
+        color: white;
+        transition-duration: 2000ms;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    
+    #about:hover {
+        color: black;
+        background-color: white;
+        transition-duration: 2000ms;
+    }
+    
+    #us {
+        height: 100%;
+        width: inherit;
+    }
+    
+    #abouttitle {
+        font-family: "Raleway";
+    }
+    
+    #aboutcontent {
+        font-family: "Montserrat";
+        font-size: 120%;
+    }
+
+    #projectcard {
+        background-color: black;
+        color: white;
+        transition-duration: 2000ms;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    
+    #projectcard:hover {
+        color: black;
+        background-color: white;
+        transition-duration: 2000ms;
+    }
+    
+    #cardtitle {
+        font-family: "Raleway";
+    }
+    
+    #cardbody {
+        font-family: "Montserrat";
+        padding: 20px;
+        color: white;
+        transition-duration: 2000ms;
+        margin: auto;
+    }
+
+    #cardbody:hover {
+      color: black;
+      transition-duration: 2000ms;
+    }
+
+    #printables {
+      background-color: black;
+      color: white;
+      transition-duration: 2000ms;
+      padding: 50px;
+      border-radius: 10px;
+  }
+  
+  #printables:hover {
+      color: black;
+      background-color: white;
+      transition-duration: 2000ms;
+  }
+  
+  #printablestitle {
+      font-family: "Raleway";
+  }
+  
+  #printablescontent {
+      font-family: "Montserrat";
+      padding: 20px;
+      margin: auto;
+  }
+
+  a {
+    color: inherit;
+    background-color: inherit;
+    font-family: "Raleway";
+    }
+
+  a:hover {
+    color: inherit;
+    background-color: inherit;
+  }
+
+  .image-gallery-icon {
     color: #fff;
     transition: all .2s ease-out;
     appearance: none;
@@ -375,227 +604,3 @@ i {
       .image-gallery-index {
         font-size: .8em;
         padding: 5px 10px; } }
-
-#nav {
-    background-color: black;
-    transition-duration: 2000ms;
-    color: white;
-    }
-        
-#nav:hover {
-    background-color: white;
-    transition-duration: 2000ms;
-    color: black;
-    }
-        
-#navitem {
-    color: inherit;
-    background-color: inherit;
-    font-weight: bold;
-    font-family: "Raleway";
-    }
-
-    #projects {
-        background-color: black;
-        color: white;
-        transition-duration: 2000ms;
-        padding: 50px;
-        border-radius: 10px;
-    }
-    
-    #projects:hover {
-        color: black;
-        background-color: white;
-        transition-duration: 2000ms;
-    }
-    
-    #projectstitle {
-        font-family: "Raleway";
-    }
-    
-    #projectscontent {
-        font-family: "Montserrat";
-        padding: 20px;
-    }
-
-    #team {
-        background-color: black;
-        color: white;
-        transition-duration: 2000ms;
-        padding: 10px;
-        border-radius: 10px;
-    }
-    
-    #team:hover {
-        color: black;
-        background-color: white;
-        transition-duration: 2000ms;
-    }
-    
-    #teamtitle {
-        font-family: "Raleway";
-    }
-    
-    #teamcontent {
-        font-family: "Montserrat";
-    }
-    
-    #teamcard {
-        background-color: black;
-        color: white;
-        transition-duration: 2000ms;
-        padding: 10px;
-        border-radius: 10px;
-    }
-    
-    #teamcard:hover {
-        color: black;
-        background-color: white;
-        transition-duration: 2000ms;
-    }
-    
-    #cardtitle {
-        font-family: "Raleway";
-    }
-    
-    #cardbody {
-        font-family: "Montserrat";
-        padding: 20px;
-    }
-    
-    #teamimg {
-        border-radius: 100px;
-        height: 250px;
-    }
-
-    #titlebar {
-        color: white;
-        background-color: black;
-        transition-duration: 2000ms;
-    }
-    
-    #title {
-        font-weight: bolder;
-        font-size: 150px;
-        font-family: "Raleway";
-    }
-    
-    #titlebar:hover {
-        color: black;
-        background-color: white;
-        transition-duration: 2000ms;
-    }
-    
-    #tagline {
-        font-family: "Montserrat";
-        position: relative;
-        top: -70px;
-        margin-bottom: -10px;
-    }
-    
-    /* a {
-        color: white;
-    }
-    
-    a:hover {
-        color: black;
-        text-decoration: none;
-    } */
-    
-    #logo {
-        border-radius: 50px;
-    }
-
-    #about {
-        background-color: black;
-        color: white;
-        transition-duration: 2000ms;
-        padding: 10px;
-        border-radius: 10px;
-    }
-    
-    #about:hover {
-        color: black;
-        background-color: white;
-        transition-duration: 2000ms;
-    }
-    
-    #us {
-        height: 100%;
-        width: inherit;
-    }
-    
-    #abouttitle {
-        font-family: "Raleway";
-    }
-    
-    #aboutcontent {
-        font-family: "Montserrat";
-        font-size: 120%;
-    }
-
-    #projectcard {
-        background-color: black;
-        color: white;
-        transition-duration: 2000ms;
-        padding: 10px;
-        border-radius: 10px;
-    }
-    
-    #projectcard:hover {
-        color: black;
-        background-color: white;
-        transition-duration: 2000ms;
-    }
-    
-    #cardtitle {
-        font-family: "Raleway";
-    }
-    
-    #cardbody {
-        font-family: "Montserrat";
-        padding: 20px;
-        color: white;
-        transition-duration: 2000ms;
-        margin: auto;
-    }
-
-    #cardbody:hover {
-      color: black;
-      transition-duration: 2000ms;
-    }
-
-    #printables {
-      background-color: black;
-      color: white;
-      transition-duration: 2000ms;
-      padding: 50px;
-      border-radius: 10px;
-  }
-  
-  #printables:hover {
-      color: black;
-      background-color: white;
-      transition-duration: 2000ms;
-  }
-  
-  #printablestitle {
-      font-family: "Raleway";
-  }
-  
-  #printablescontent {
-      font-family: "Montserrat";
-      padding: 20px;
-      margin: auto;
-  }
-
-  a {
-    color: inherit;
-    background-color: inherit;
-    font-family: "Raleway";
-    }
-
-  a:hover {
-    color: inherit;
-    background-color: inherit;
-  }
