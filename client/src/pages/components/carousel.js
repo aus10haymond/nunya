@@ -2,56 +2,54 @@ import React from "react";
 
 import ImageGallery from "react-image-gallery";
 
-import chooseToBeGrateful from '../../assets/downloads/thanksgiving/choose-to-be-grateful.png';
-import chooseToBeGratefulDownload from '../../assets/downloads/thanksgiving/choose-to-be-grateful.pdf';
-import leaves from '../../assets/downloads/thanksgiving/leaves.png';
-import gratefulLeaves from '../../assets/downloads/thanksgiving/grateful-leaves.png';
-import gratefulLeavesDownload from '../../assets/downloads/thanksgiving/grateful-leaves.pdf';
-import gratefulStory from '../../assets/downloads/thanksgiving/grateful-story.png';
-import gratefulStoryDownload from '../../assets/downloads/thanksgiving/grateful-story.pdf';
-import gratefulThankfulBlessed from '../../assets/downloads/thanksgiving/grateful-thankful-blessed.png';
-import gratefulThankfulBlessedDownload from '../../assets/downloads/thanksgiving/grateful-thankful-blessed.pdf';
+import beaniePrintable from "../../assets/downloads/christmas/beaniePrintable.png";
+import beanieDownload from "../../assets/downloads/christmas/beaniePrintable.pdf";
+import christmasPrintable from "../../assets/downloads/christmas/christmasPrintable.png";
+import christmasDownload from "../../assets/downloads/christmas/christmasPrintable.pdf";
+import christmasPrintable2 from "../../assets/downloads/christmas/christmasPrintable2.png";
+import christmasDownload2 from "../../assets/downloads/christmas/christmasPrintable2.pdf";
+import christmasTreePrintable from "../../assets/downloads/christmas/christmasTreePrintable.png";
+import christmasTreeDownload from "../../assets/downloads/christmas/christmasTreePrintable.pdf";
+import christmasTreePrintable2 from "../../assets/downloads/christmas/christmasTreePrintable2.png";
+import christmasTreeDownload2 from "../../assets/downloads/christmas/christmasTreePrintable2.pdf";
+import santaHatPrintable from "../../assets/downloads/christmas/santaHatPrintable.png";
+import santaHatDownload from "../../assets/downloads/christmas/santaHatPrintable.pdf";
 
 // import comingSoon from "../../assets/downloads/comingSoon.png";
-
-// import "../../assets/styles/image-gallery.css";
-// import "../../assets/styles/carousel.css";
-
-// let downloads = 0;
-
-// function clicks() {
-//     downloads += 1;
-//     console.log(downloads);
-// }
 class Carousel extends React.Component {
 
     render() {
 
         const images = [
             {
-                original: chooseToBeGrateful,
-                description: <a href={chooseToBeGratefulDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
-                originalAlt: 'Choode to be Grateful'
+                original: beaniePrintable,
+                description: <a href={beanieDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
+                originalAlt: 'Christmas Beanies'
             },
             {
-                original: leaves,
-                description: <a href={gratefulLeavesDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
-                originalAlt: 'Fall Leaves'
+                original: christmasPrintable,
+                description: <a href={christmasDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
+                originalAlt: 'Christmas lights'
             },
             {
-                original: gratefulLeaves,
-                description: <a href={gratefulLeavesDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
-                originalAlt: 'Leaves quote'
+                original: christmasPrintable2,
+                description: <a href={christmasDownload2} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
+                originalAlt: 'Christmas reindeer'
             },
             {
-                original: gratefulStory,
-                description: <a href={gratefulStoryDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
-                originalAlt: 'Grateful Story'
+                original: christmasTreePrintable,
+                description: <a href={christmasTreeDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
+                originalAlt: 'Christmas Trees'
             },
             {
-                original: gratefulThankfulBlessed,
-                description: <a href={gratefulThankfulBlessedDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
-                originalAlt: 'Grateful Thankful Blessed'
+                original: christmasTreePrintable2,
+                description: <a href={christmasTreeDownload2} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
+                originalAlt: 'Christmas Trees 2'
+            },
+            {
+                original: santaHatPrintable,
+                description: <a href={santaHatDownload} target="_blank" rel="noopener noreferrer">DOWNLOAD</a>,
+                originalAlt: 'Santa Hats'
             }
             // {
             //     original: comingSoon,
